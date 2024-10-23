@@ -1,6 +1,6 @@
 # Hi there👋 I'm Shravanth Gelli 👨‍💻
 
-## 💻 Software Development Engineer | Machine Learning Enthusiast | Cloud Computing Specialist
+## 💻 Software Development Engineer
 
 Welcome to my GitHub! I'm currently pursuing a **Master of Science in Computer Science** at Georgia State University with a robust foundation in **Electronics and Communications Engineering** and a passion for **Machine Learning**, **AWS**, and **DevOps**. I enjoy working on innovative projects and solving complex technical challenges.
 
