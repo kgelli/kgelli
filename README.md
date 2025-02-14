@@ -1,7 +1,7 @@
 # Hi there! I'm Kusal Gelli 👋
 
 ## 🎓 About Me
-I'm a Master's student in Computer Science at Georgia State University, passionate about Machine Learning, Data Science, and Cloud Computing. Currently working as a Graduate Teaching & Research Assistant, I bring professional experience as a Data Analyst from Cognizant Technology Solutions.
+I'm a Master's student in Computer Science at Georgia State University, passionate about Machine Learning, Data Science, and Cloud Computing.
 
 ## 🛠️ Tech Stack
 
@@ -21,16 +21,7 @@ I'm a Master's student in Computer Science at Georgia State University, passiona
 - 🏃‍♂️ Won 10+ hackathons across India
 - 📖 Published multiple research papers in prestigious journals
 - 🚀 Completed T-Tribe LaunchPad Program by T-Hub
-
-## 🎯 Featured Projects
-- **HealthNest**: Web app for healthcare management using MERN stack
-- **Intelligent Diagnostic System**: IoT-based health monitoring system with ML predictions
-- **New Gen Faucet**: IoT-enabled smart faucet with gesture control
-
-## 🌱 Currently Learning
-- Advanced Natural Language Processing
-- Deep Learning Applications
-- Cloud Architecture Design Patterns
+  
 
 ## 🤝 Let's Connect and Build Something Amazing!
 
