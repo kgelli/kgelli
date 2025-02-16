@@ -25,7 +25,6 @@ Master's student in Computer Science at Georgia State University, passionate abo
 
 ## 🤝 Let's Connect and Build Something Amazing!
 
----
 ### 🎵 Random Dev Quote
 > "The best error message is the one that never shows up." - Thomas Fuchs
 
