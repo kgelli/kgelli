@@ -1,6 +1,6 @@
 # Hi there! I'm Kusal Gelli 👋
 ## 🎓 About Me
-Master's student in Computer Science at Georgia State University, passionate about Data Engineering, Cloud Infrastructure, and DevOps.
+Master's student in Computer Science at Georgia State University, passionate about Cloud Infrastructure, DevOps and Data Engineering.
 
 ## 🛠️ Tech Stack
 * ##### 👨‍💻 Programming Languages &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
