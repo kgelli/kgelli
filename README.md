@@ -1,7 +1,7 @@
 # Hi there! I'm Kusal Gelli 👋
 
 ## 🎓 About Me
-I'm a Master's student in Computer Science at Georgia State University, passionate about Machine Learning, Data Science, and Cloud Computing.
+Master's student in Computer Science at Georgia State University, passionate about Data, DevOps and Cloud Computing.
 
 ## 🛠️ Tech Stack
 
@@ -24,28 +24,6 @@ I'm a Master's student in Computer Science at Georgia State University, passiona
   
 
 ## 🤝 Let's Connect and Build Something Amazing!
-
-<details>
-<summary>🎮 Quick Fun Facts</summary>
-
-- 🎯 I've participated in 10+ hackathons (and counting!)
-- 🤖 I love building robots that solve real-world problems
-- 🌱 I believe in sustainable technology
-- 🎨 I enjoy combining technology with creative design
-</details>
-
-
-<details>
-<summary>💡 Need Project Ideas?</summary>
-
-Here are some interesting project ideas we could collaborate on:
-1. 🤖 AI-powered gesture recognition system
-2. 🌍 Sustainable IoT solutions
-3. 🏥 Healthcare monitoring applications
-4. 🎮 Interactive learning platforms
-
-Open an issue if you'd like to discuss any of these ideas!
-</details>
 
 ---
 ### 🎵 Random Dev Quote
