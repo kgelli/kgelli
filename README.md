@@ -1,5 +1,5 @@
-# Hi there! I'm Kusal Gelli 👋
-## 🎓 About Me
+# Hi there! I'm Kusal Gelli 👋🎓
+
 Master's student in Computer Science at Georgia State University, passionate about Cloud Computing, DevOps and Data Engineering.
 
 ## 🛠️ Tech Stack
