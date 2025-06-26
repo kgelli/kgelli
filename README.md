@@ -1,30 +1,63 @@
-# Hi there! I'm Kusal Gelli 👋🎓
+# Hi there! I'm Kusal Gelli 👋🚀
 
-Master's student in Computer Science at Georgia State University, passionate about Cloud Computing, DevOps and Data Engineering.
+**Full-Stack Engineer | Cloud Architect | Data Engineer** 
 
-## 🛠️ Tech Stack
-* ##### 👨‍💻 Programming Languages &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+Master's student in Computer Science at Georgia State University (Full Merit Scholar), passionate about building end-to-end solutions from React frontends to cloud-scale data pipelines.
 
-* ##### ☁️ Cloud & DevOps &nbsp; ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+## 🎯 What I Do
+- 💻 **Full-Stack Development**: React, TypeScript, Node.js, Express - crafting user experiences that just work
+- ☁️ **Cloud Architecture**: AWS & Azure certified - designing scalable, resilient infrastructure  
+- 📊 **Data Engineering**: Building pipelines that turn chaos into insights using Spark, Airflow & modern data stacks
+- 🔧 **DevOps**: Kubernetes, Docker, Terraform - because deployment shouldn't be scary
 
-* ##### 📊 Data & Analytics &nbsp; ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) ![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+## 🛠️ Tech Arsenal
 
-* ##### 💾 Databases &nbsp; ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Hive](https://img.shields.io/badge/-Hive-FDEE21?style=flat&logo=apache-hive&logoColor=black) ![HBase](https://img.shields.io/badge/-HBase-BA1F33?style=flat&logo=apache&logoColor=white)
+### 💻 Full-Stack Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-* ##### 🧠 AI & ML &nbsp; ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Spacy](https://img.shields.io/badge/-Spacy-09A3D5?style=flat&logo=spacy&logoColor=white) ![NLTK](https://img.shields.io/badge/-NLTK-3776AB?style=flat&logo=python&logoColor=white)
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
-* ##### 🌐 Web Development &nbsp; ![MERN](https://img.shields.io/badge/-MERN_Stack-000000?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/-React/Redux-61DAFB?style=flat&logo=react&logoColor=black) ![Frontend](https://img.shields.io/badge/-HTML/CSS/JS-E34F26?style=flat&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![APIs](https://img.shields.io/badge/-REST/GraphQL/WebSocket-E10098?style=flat&logo=graphql&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+### 📊 Data & Analytics
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) ![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-## 🏆 Achievements
-- 📱 Design Patent holder for "New Gen Faucet" (Application Number: 334216-001)
-- 🏃‍♂️ Won 10+ hackathons across India
-- 📖 Published multiple research papers in prestigious journals
-- 🚀 Completed T-Tribe LaunchPad Program by T-Hub
- 
-## 🤝 Let's Connect and Build Something Amazing!
-### 🎵 Random Dev Quote
-> "The best error message is the one that never shows up." - Thomas Fuchs
+### 💾 Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Redshift-8C4FFF?style=flat&logo=amazon&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
 
-⭐️ Like what you see? Let's connect and build something awesome together! Check out my repositories and don't forget to leave a star if you find something interesting!
+### 🧠 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![MLOps](https://img.shields.io/badge/-MLOps-FF6F00?style=flat&logo=mlflow&logoColor=white)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YourGitHubUsername.YourGitHubUsername)
+### 🔧 DevOps & Monitoring
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![GitOps](https://img.shields.io/badge/-GitOps-F05032?style=flat&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+
+## 🏆 Achievements & Recognition
+- 🎓 **Full Merit Scholarship** recipient at Georgia State University
+- 📖 **Published Researcher** - ML-driven IoT Monitoring Framework in AIP Journal
+- ☁️ **Multi-Cloud Certified** - AWS Solutions Architect, Azure Data Engineer, Fabric Data Engineer
+- 🏃‍♂️ **10+ Hackathon Winner** across India
+- 📱 **Design Patent Holder** - "New Gen Faucet" (Application: 334216-001)
+- 🚀 **T-Tribe LaunchPad Graduate** by T-Hub
+
+## 🔥 What I'm Building
+- 🌦️ **Weather Analytics Pipeline** - Multi-source data processing with Airflow & AWS
+- 🛒 **Full-Stack E-Commerce Platform** - React frontend with Node.js/Express backend
+- 🔍 **Drug Safety Monitoring System** - NLP-powered adverse effect detection with 98.77% accuracy
+- 📊 **Progressive Delivery Platform** - Kubernetes-native deployment automation
+
+## 📈 GitHub Stats
+![Kusal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgelli&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kgelli&layout=compact&theme=tokyonight&hide_border=true)
+
+## 💭 Philosophy
+> *"Code is poetry that machines can read - let's make it beautiful for humans too."*
+
+Fun fact: I get excited about tech stacks like others get excited about sports teams! 🏈🏀
+
+## 🤝 Let's Connect!
+- 💼 [LinkedIn](https://linkedin.com/in/kgelli)
+- 📧 [Email](mailto:shravanthsai1212@gmail.com)
+- 🌐 Portfolio: Coming Soon!
+
+⭐️ **Like what you see?** Feel free to explore my repositories and star anything that catches your eye! Always happy to chat about tech, collaborate on projects, or just grab virtual coffee ☕
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kgelli.kgelli)
