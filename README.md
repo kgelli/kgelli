@@ -38,12 +38,6 @@ Master's student in Computer Science at Georgia State University (Full Merit Sch
 - 📱 **Design Patent Holder** - "New Gen Faucet" (Application: 334216-001)
 - 🚀 **T-Tribe LaunchPad Graduate** by T-Hub
 
-## 🔥 What I'm Building
-- 🌦️ **Weather Analytics Pipeline** - Multi-source data processing with Airflow & AWS
-- 🛒 **Full-Stack E-Commerce Platform** - React frontend with Node.js/Express backend
-- 🔍 **Drug Safety Monitoring System** - NLP-powered adverse effect detection with 98.77% accuracy
-- 📊 **Progressive Delivery Platform** - Kubernetes-native deployment automation
-
 ## 💭 Philosophy
 > *"Code is poetry that machines can read - let's make it beautiful for humans too."*
 
