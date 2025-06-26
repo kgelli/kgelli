@@ -44,14 +44,10 @@ Master's student in Computer Science at Georgia State University (Full Merit Sch
 - 🔍 **Drug Safety Monitoring System** - NLP-powered adverse effect detection with 98.77% accuracy
 - 📊 **Progressive Delivery Platform** - Kubernetes-native deployment automation
 
-## 📈 GitHub Stats
-![Kusal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgelli&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kgelli&layout=compact&theme=tokyonight&hide_border=true)
-
 ## 💭 Philosophy
 > *"Code is poetry that machines can read - let's make it beautiful for humans too."*
 
-Fun fact: I get excited about tech stacks like others get excited about sports teams! 🏈🏀
+**Fun fact**: I get excited about tech stacks like others get excited about sports teams! 🏈🏀
 
 ## 🤝 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/kgelli)
